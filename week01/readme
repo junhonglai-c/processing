@@ -4,32 +4,28 @@
 
 Added 3 color variables at the top of the code and replaced the original RGB numerical values with the built-in color palette. Replaced the mathematical formula for calculating red and blue in the `draw()` function with the `lerpColor()` mixer.
 
-``
 
 
 ### 2. Modifying Color Variables
 
 Experimented with modifying the colors.
 
-``
 
 
 ### 3. Modifying Gradient Direction (Vertical)
 
 Attempted to modify the color direction by finding the `normalizedX` line in the `draw()` function. Changed the reference target from `x` to `y`, and changed `width` to `height`. Also renamed the variable to `normalizedY`.
 
-``
 
 
 ### 4. Diagonal Gradient
 
-Attempted to add `x` and `y` together for the calculation, changing the maximum value to `width + height`. This resulted in a diagonal gradient.
+Attempted to add `x` and `y` together for the calculation, changing the maximum value to `width + height`. This resulted in a diagonal gradient
 
-``
 
 
 ### 5. Radial Distance Gradient
 
 Switched to measuring the distance from the current pixel to the center of the screen. Introduced the `dist()` distance function as the new basis for calculating the progression.
 
-``
+
