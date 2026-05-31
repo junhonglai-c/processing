@@ -1,3 +1,5 @@
+# WEEK_01
+
 ##  Experiments & Iterations
 
 ### 1. Replacing RGB Math with `lerpColor()`
