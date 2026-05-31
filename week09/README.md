@@ -1,4 +1,4 @@
-# Endless Runner Physics and Input Mechanics
+# week_09
 
 ## Physics Engine and Collision Mechanics
 * Core Forces: The system applies two primary physical forces: a global downward vector (`gravity`) accumulated every frame, and an instantaneous upward vector (`jumpForce`) applied to the player upon pressing the jump key.
@@ -22,4 +22,7 @@
 * Dynamic Forward Thrust: To maximize the visual impact of the action, triggering a dash applies a rightward horizontal velocity (`vel.x`) directly to the character. This allows the unicorn to physically surge forward relative to the camera viewport.
 * Smooth Spring Recovery: Once the `dashTimer` expires, the system applies a subtle negative horizontal force (-0.5 counter-spring effect). This pulls the character backward, allowing the unicorn to smoothly and gradually ease back into its default anchor position at `x = 150`.
 
-> [Drag and drop your endless runner gameplay video or animation here]
+>
+
+https://github.com/user-attachments/assets/e6334b0a-52f6-4e40-8bec-01ffc4b8250d
+
