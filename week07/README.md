@@ -8,6 +8,11 @@
   * Rotation Domain: Mapping -1 to 1 into a rotation range of 0 to 180 degrees (converted to radians).
 * Visual Outcome: Over time, the entire grid matrix expands and contracts like a breathing cycle, and the internal squares rotate accordingly.
 
+
+
+https://github.com/user-attachments/assets/d7a12e24-47ff-4a30-9a4c-a49ee7de9c48
+
+
 ---
 
 ## Technical Pitfalls and Cross-Thread Optimization
@@ -16,8 +21,6 @@
 * Optimization Results: This approach guaranteed absolute smoothness in the waveform data, successfully preventing screen tearing and flickering caused by cross-thread audio buffer reads.
 
 > 
-
-https://github.com/user-attachments/assets/f9277482-ed25-454c-86d9-b898806a025a
 
 
 
