@@ -9,4 +9,8 @@
 ## Conceptual Framing
 [cite_start]Since the underlying core logic relies on obstacle avoidance, allowing the user to pilot a 3D spaceship navigating through a continuous stream of procedurally generated code-data mountains serves as a highly appropriate presentation within the context of computer art.
 
-> [Drag and drop your 3D spaceship and data mountain gameplay screenshot here]
+> 
+
+https://github.com/user-attachments/assets/af67da5b-bb7f-45f8-b1f8-34d85395b2f0
+
+
